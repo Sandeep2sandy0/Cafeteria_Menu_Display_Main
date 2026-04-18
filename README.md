@@ -1,0 +1,1 @@
+The Cafeteria Menu Management Application is a Scoped Application developed using ServiceNow Studio. Its main objective is to transform traditional cafeteria operations into a fully digital system. It provides a centralized platform where menu details can be managed efficiently and displayed instantly to users.
